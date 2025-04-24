@@ -1,7 +1,7 @@
 # Project Overview
 This project analyzes an HR dataset focusing on employee compensation and demographics. The dataset, named "Salaries.csv," contains information on 397 employees, including their job title (rank), gender, years of service, years since their highest degree (year_since_phd), and salary.
 # Purpose
-The primary purpose of this analysis is to explore the relationship between these variables, with a specific focus on identifying and understanding potential gender-based disparities in compensation and career advancement within the organization.
+I analyzed this dataset for studying purposes to explore the relationship between variables, focusing on identifying and understanding potential gender-based disparities in compensation and career advancement within the academia.
 
 # Steps performed in the analysis:
 1. Data Loading and Initial Exploration
